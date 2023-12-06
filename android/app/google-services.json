@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "960002544945",
+    "project_id": "inmakesuserapp",
+    "storage_bucket": "inmakesuserapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960002544945:android:854c2d829966f772cf4c10",
+        "android_client_info": {
+          "package_name": "com.inkart_adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960002544945-gf2ka5d9iptnidqq8fng40hpbnf7sb4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1Ioi9iLuKsYF0vLALk7YaEx1PDoHGXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960002544945-6h4bfktrf1q4j0b6bgve9d954b7rfi4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960002544945-k58m0a3fmb9p7s19ph6dj9hk7t74u3o1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Inkart-admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960002544945:android:093c922c073d6f4ccf4c10",
+        "android_client_info": {
+          "package_name": "com.inkartuserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960002544945-gf2ka5d9iptnidqq8fng40hpbnf7sb4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1Ioi9iLuKsYF0vLALk7YaEx1PDoHGXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960002544945-6h4bfktrf1q4j0b6bgve9d954b7rfi4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960002544945-k58m0a3fmb9p7s19ph6dj9hk7t74u3o1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Inkart-admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
